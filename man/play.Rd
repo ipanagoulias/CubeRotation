@@ -19,5 +19,5 @@
   
   # To interrupt the rotation:
   #   • On Windows: just press the red "STOP" button of your R GUI or RStudio and close the window.
-  #   • On Linux: If you are using the terminal, just press Ctrl + C.
+  #   • On Linux: if you are using the terminal, just press Ctrl + C.
 }  
